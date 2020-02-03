@@ -1,6 +1,8 @@
 # Satellite-Based Estimates Reveal Widespread Forest Degradation in the Amazon
 Authors: Eric L. Bullock, Curtis E. Woodcock, Carlos Souza Jr., & Pontus Olofsson
 
+[![DOI](https://www.zenodo.org/badge/191391452.svg)](https://www.zenodo.org/badge/latestdoi/191391452)
+
 ## Data used in analysis:
 1. The condensed version of the disturbance dataset used in analysis. The dataset contains for the first two detected disturbances: year, magnitude, and type. The dataset can be found as a GEE asset: users/bullocke/amazon/public/Bullock_Amazon_Condensed.
 2. The full version of the disturbance dataset used in analysis with the raw and unorganized outputs from CODED. The dataset can be found as a GEE asset: users/bullocke/amazon/public/Bullock_Amazon_Raw
